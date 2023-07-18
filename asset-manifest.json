@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cloudy/static/css/main.be979787.css",
+    "main.js": "/cloudy/static/js/main.660cc870.js",
+    "index.html": "/cloudy/index.html",
+    "main.be979787.css.map": "/cloudy/static/css/main.be979787.css.map",
+    "main.660cc870.js.map": "/cloudy/static/js/main.660cc870.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be979787.css",
+    "static/js/main.660cc870.js"
+  ]
+}
